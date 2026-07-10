@@ -1,4 +1,4 @@
-The daily leetcode problems are here !
+The daily leetcode grinding is here !
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
