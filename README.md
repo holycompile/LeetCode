@@ -11,6 +11,7 @@ The daily leetcode grinding is here !
 | [0027-remove-element](https://github.com/holycompile/LeetCode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/holycompile/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/holycompile/LeetCode/tree/master/0036-valid-sudoku) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/holycompile/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
 |  |
 | ------- |
@@ -42,4 +43,8 @@ The daily leetcode grinding is here !
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/holycompile/LeetCode/tree/master/0036-valid-sudoku) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/holycompile/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
