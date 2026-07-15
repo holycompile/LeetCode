@@ -58,4 +58,8 @@ The daily leetcode grinding is here !
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/holycompile/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/holycompile/LeetCode/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
