@@ -19,6 +19,7 @@ The daily leetcode grinding is here !
 | [0011-container-with-most-water](https://github.com/holycompile/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/holycompile/LeetCode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/holycompile/LeetCode/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/holycompile/LeetCode/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
@@ -62,4 +63,5 @@ The daily leetcode grinding is here !
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/holycompile/LeetCode/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/holycompile/LeetCode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
