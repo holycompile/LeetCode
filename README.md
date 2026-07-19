@@ -13,6 +13,7 @@ The daily leetcode grinding is here !
 | [0036-valid-sudoku](https://github.com/holycompile/LeetCode/tree/master/0036-valid-sudoku) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/holycompile/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/holycompile/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/holycompile/LeetCode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -25,11 +26,13 @@ The daily leetcode grinding is here !
 | ------- |
 | [0015-3sum](https://github.com/holycompile/LeetCode/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/holycompile/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/holycompile/LeetCode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/holycompile/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/holycompile/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0268-missing-number](https://github.com/holycompile/LeetCode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -43,6 +46,7 @@ The daily leetcode grinding is here !
 | ------- |
 | [0036-valid-sudoku](https://github.com/holycompile/LeetCode/tree/master/0036-valid-sudoku) |
 | [0217-contains-duplicate](https://github.com/holycompile/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/holycompile/LeetCode/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
@@ -54,6 +58,7 @@ The daily leetcode grinding is here !
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/holycompile/LeetCode/tree/master/0268-missing-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/holycompile/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -64,4 +69,8 @@ The daily leetcode grinding is here !
 | ------- |
 | [0058-length-of-last-word](https://github.com/holycompile/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/holycompile/LeetCode/tree/master/0125-valid-palindrome) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/holycompile/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
