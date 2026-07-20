@@ -13,6 +13,7 @@ The daily leetcode grinding is here !
 | [0036-valid-sudoku](https://github.com/holycompile/LeetCode/tree/master/0036-valid-sudoku) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/holycompile/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/holycompile/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/holycompile/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/holycompile/LeetCode/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/holycompile/LeetCode/tree/master/0303-range-sum-query-immutable) |
 ## Two Pointers
@@ -47,6 +48,7 @@ The daily leetcode grinding is here !
 | ------- |
 | [0036-valid-sudoku](https://github.com/holycompile/LeetCode/tree/master/0036-valid-sudoku) |
 | [0217-contains-duplicate](https://github.com/holycompile/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/holycompile/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/holycompile/LeetCode/tree/master/0268-missing-number) |
 ## Matrix
 |  |
@@ -82,4 +84,8 @@ The daily leetcode grinding is here !
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/holycompile/LeetCode/tree/master/0303-range-sum-query-immutable) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/holycompile/LeetCode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
