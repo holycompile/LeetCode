@@ -33,6 +33,7 @@ The daily leetcode grinding is here !
 | ------- |
 | [0015-3sum](https://github.com/holycompile/LeetCode/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/holycompile/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/holycompile/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/holycompile/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/holycompile/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/holycompile/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -58,6 +59,7 @@ The daily leetcode grinding is here !
 | [0036-valid-sudoku](https://github.com/holycompile/LeetCode/tree/master/0036-valid-sudoku) |
 | [0217-contains-duplicate](https://github.com/holycompile/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/holycompile/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/holycompile/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/holycompile/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/holycompile/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/holycompile/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -83,6 +85,7 @@ The daily leetcode grinding is here !
 | ------- |
 | [0058-length-of-last-word](https://github.com/holycompile/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/holycompile/LeetCode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/holycompile/LeetCode/tree/master/0242-valid-anagram) |
 ## Bit Manipulation
 |  |
 | ------- |
