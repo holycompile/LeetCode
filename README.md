@@ -59,6 +59,7 @@ The daily leetcode grinding is here !
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/holycompile/LeetCode/tree/master/0036-valid-sudoku) |
+| [0205-isomorphic-strings](https://github.com/holycompile/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/holycompile/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/holycompile/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/holycompile/LeetCode/tree/master/0242-valid-anagram) |
@@ -87,6 +88,7 @@ The daily leetcode grinding is here !
 | ------- |
 | [0058-length-of-last-word](https://github.com/holycompile/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/holycompile/LeetCode/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/holycompile/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/holycompile/LeetCode/tree/master/0242-valid-anagram) |
 ## Bit Manipulation
 |  |
