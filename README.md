@@ -78,6 +78,7 @@ The daily leetcode grinding is here !
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/holycompile/LeetCode/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/holycompile/LeetCode/tree/master/0412-fizz-buzz) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/holycompile/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -90,6 +91,7 @@ The daily leetcode grinding is here !
 | [0125-valid-palindrome](https://github.com/holycompile/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/holycompile/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/holycompile/LeetCode/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/holycompile/LeetCode/tree/master/0412-fizz-buzz) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -106,4 +108,8 @@ The daily leetcode grinding is here !
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/holycompile/LeetCode/tree/master/0219-contains-duplicate-ii) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/holycompile/LeetCode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
