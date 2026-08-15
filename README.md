@@ -77,6 +77,7 @@ The daily leetcode grinding is here !
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/holycompile/LeetCode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/holycompile/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/holycompile/LeetCode/tree/master/0412-fizz-buzz) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/holycompile/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -88,6 +89,7 @@ The daily leetcode grinding is here !
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/holycompile/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/holycompile/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/holycompile/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/holycompile/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/holycompile/LeetCode/tree/master/0242-valid-anagram) |
@@ -95,6 +97,7 @@ The daily leetcode grinding is here !
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/holycompile/LeetCode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/holycompile/LeetCode/tree/master/0268-missing-number) |
 ## Design
 |  |
@@ -111,5 +114,6 @@ The daily leetcode grinding is here !
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/holycompile/LeetCode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/holycompile/LeetCode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
