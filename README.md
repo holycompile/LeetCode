@@ -20,6 +20,7 @@ The daily leetcode grinding is here !
 | [0349-intersection-of-two-arrays](https://github.com/holycompile/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/holycompile/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/holycompile/LeetCode/tree/master/0414-third-maximum-number) |
+| [0605-can-place-flowers](https://github.com/holycompile/LeetCode/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/holycompile/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
 |  |
@@ -56,6 +57,7 @@ The daily leetcode grinding is here !
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/holycompile/LeetCode/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/holycompile/LeetCode/tree/master/0605-can-place-flowers) |
 ## Hash Table
 |  |
 | ------- |
