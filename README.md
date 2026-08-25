@@ -80,6 +80,7 @@ The daily leetcode grinding is here !
 | [0067-add-binary](https://github.com/holycompile/LeetCode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/holycompile/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/holycompile/LeetCode/tree/master/0412-fizz-buzz) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/holycompile/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/holycompile/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -94,6 +95,7 @@ The daily leetcode grinding is here !
 | [0205-isomorphic-strings](https://github.com/holycompile/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/holycompile/LeetCode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/holycompile/LeetCode/tree/master/0412-fizz-buzz) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/holycompile/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -116,4 +118,12 @@ The daily leetcode grinding is here !
 | ------- |
 | [0067-add-binary](https://github.com/holycompile/LeetCode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/holycompile/LeetCode/tree/master/0412-fizz-buzz) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/holycompile/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/holycompile/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
