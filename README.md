@@ -20,6 +20,7 @@ The daily leetcode grinding is here !
 | [0349-intersection-of-two-arrays](https://github.com/holycompile/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/holycompile/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/holycompile/LeetCode/tree/master/0414-third-maximum-number) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/holycompile/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
 |  |
 | ------- |
