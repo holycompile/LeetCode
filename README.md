@@ -84,6 +84,7 @@ The daily leetcode grinding is here !
 | [0268-missing-number](https://github.com/holycompile/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/holycompile/LeetCode/tree/master/0412-fizz-buzz) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/holycompile/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [2235-add-two-integers](https://github.com/holycompile/LeetCode/tree/master/2235-add-two-integers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/holycompile/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
