@@ -22,6 +22,7 @@ The daily leetcode grinding is here !
 | [0414-third-maximum-number](https://github.com/holycompile/LeetCode/tree/master/0414-third-maximum-number) |
 | [0605-can-place-flowers](https://github.com/holycompile/LeetCode/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/holycompile/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/holycompile/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
 |  |
 | ------- |
@@ -85,6 +86,7 @@ The daily leetcode grinding is here !
 | [0412-fizz-buzz](https://github.com/holycompile/LeetCode/tree/master/0412-fizz-buzz) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/holycompile/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2235-add-two-integers](https://github.com/holycompile/LeetCode/tree/master/2235-add-two-integers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/holycompile/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/holycompile/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
