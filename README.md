@@ -30,6 +30,7 @@ The daily leetcode grinding is here !
 | [0015-3sum](https://github.com/holycompile/LeetCode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/holycompile/LeetCode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/holycompile/LeetCode/tree/master/0125-valid-palindrome) |
+| [0345-reverse-vowels-of-a-string](https://github.com/holycompile/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/holycompile/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/holycompile/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
@@ -100,6 +101,7 @@ The daily leetcode grinding is here !
 | [0125-valid-palindrome](https://github.com/holycompile/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/holycompile/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/holycompile/LeetCode/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/holycompile/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/holycompile/LeetCode/tree/master/0412-fizz-buzz) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/holycompile/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Bit Manipulation
